@@ -1,0 +1,4 @@
+faiss-cpu
+numpy
+requests
+gradio>=4.0

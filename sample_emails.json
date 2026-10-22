@@ -1,0 +1,50 @@
+[
+  {"id": "e1", "thread_id": "t1", "date": "2026-03-04T10:12:00", "from": "Priya Nair <priya@acmelogistics.com>", "to": "arjun@example.com", "subject": "Contract renewal - revised pricing",
+   "body": "Hi Arjun, ahead of the renewal we can offer a 12 percent discount on the annual freight plan if you commit to 24 months. The current rate of 4,200 per month would drop to 3,696. Please let us know by 31 March whether this works."},
+  {"id": "e2", "thread_id": "t1", "date": "2026-03-05T09:30:00", "from": "Arjun <arjun@example.com>", "to": "priya@acmelogistics.com", "subject": "Re: Contract renewal - revised pricing",
+   "body": "Thanks Priya. I need to check with finance on the 24 month commitment. Can you confirm whether early termination is allowed after month 12?"},
+  {"id": "e3", "thread_id": "t1", "date": "2026-03-07T15:45:00", "from": "Priya Nair <priya@acmelogistics.com>", "to": "arjun@example.com", "subject": "Re: Contract renewal - revised pricing",
+   "body": "Early termination after month 12 is allowed with a 60 day notice and a two month fee. The discount offer still stands until 31 March."},
+  {"id": "e4", "thread_id": "t2", "date": "2026-05-19T11:00:00", "from": "Karan Mehta <karan@northwindsupplies.com>", "to": "arjun@example.com", "subject": "Invoice 4471 dispute",
+   "body": "We believe invoice 4471 was double billed for the April consignment. Our records show the amount of 18,450 charged twice. Please review and advise on the refund process."},
+  {"id": "e5", "thread_id": "t3", "date": "2026-06-02T08:20:00", "from": "Security Team <security@example.com>", "to": "arjun@example.com", "subject": "Security audit findings Q2",
+   "body": "The Q2 audit found three medium severity issues: outdated TLS configuration on the staging gateway, missing MFA on two admin accounts, and unrotated API keys. Remediation is due by 30 June."},
+  {"id": "e6", "thread_id": "t4", "date": "2026-07-14T13:05:00", "from": "Meera Iyer <meera@techsummit.org>", "to": "arjun@example.com", "subject": "Speaker invitation: TechSummit Bengaluru",
+   "body": "We would love for you to give a 30 minute talk on retrieval systems at TechSummit Bengaluru on 21 November. Travel is not needed. We can offer an honorarium and a speaker pass. Please confirm by 15 August."},
+  {"id": "e7", "thread_id": "t5", "date": "2026-08-22T16:40:00", "from": "Finance <finance@example.com>", "to": "arjun@example.com", "subject": "Budget approval - GPU cluster",
+   "body": "The budget request for the GPU cluster has been approved at 62 lakh, pending a vendor quotation comparison. Please share at least two quotes by 10 September."},
+  {"id": "e8", "thread_id": "t6", "date": "2026-09-30T12:15:00", "from": "Rohan <rohan@example.com>", "to": "arjun@example.com", "subject": "Team offsite venue",
+   "body": "Shortlisted venues for the December offsite are in Coorg and Gokarna. Coorg is cheaper at 3,500 per head. Can you vote by Friday?"},
+
+  {"id": "e9", "thread_id": "t7", "date": "2026-04-10T09:05:00", "from": "Sneha Rao <sneha@brightpath.io>", "to": "arjun@example.com", "subject": "Partnership proposal: co-branded webinar series",
+   "body": "Hi Arjun, BrightPath would like to run a three part webinar series on enterprise search with your team. We would handle registrations and promotion, and you would present. We expect around 400 attendees per session. Could we set up a call next week to discuss dates?"},
+  {"id": "e10", "thread_id": "t7", "date": "2026-04-11T14:20:00", "from": "Arjun <arjun@example.com>", "to": "sneha@brightpath.io", "subject": "Re: Partnership proposal: co-branded webinar series",
+   "body": "Thanks Sneha, this sounds interesting. I am travelling until 18 April. Could you send a short outline of the topics and the expected time commitment from our side?"},
+  {"id": "e11", "thread_id": "t7", "date": "2026-04-13T10:45:00", "from": "Sneha Rao <sneha@brightpath.io>", "to": "arjun@example.com", "subject": "Re: Partnership proposal: co-branded webinar series",
+   "body": "Outline attached in spirit: session one on indexing, session two on retrieval quality, session three on production monitoring. Each session needs about four hours of preparation and one hour live. We can start in January."},
+
+  {"id": "e12", "thread_id": "t8", "date": "2026-05-27T17:30:00", "from": "Vikram Shah <vikram@cloudnimbus.com>", "to": "arjun@example.com", "subject": "Quote for managed Kubernetes hosting",
+   "body": "Please find our quotation for managed Kubernetes hosting: 9 nodes with 32 GB RAM each at 1.9 lakh per month, including 24x7 support and a 99.9 percent uptime guarantee. The quote is valid for 30 days. Setup takes two weeks."},
+  {"id": "e13", "thread_id": "t8", "date": "2026-06-03T11:10:00", "from": "Vikram Shah <vikram@cloudnimbus.com>", "to": "arjun@example.com", "subject": "Re: Quote for managed Kubernetes hosting",
+   "body": "Just following up on the hosting quotation. The offer expires on 26 June. We can include one month of free migration support if you sign before then."},
+
+  {"id": "e14", "thread_id": "t9", "date": "2026-06-18T08:45:00", "from": "HR Desk <hr@example.com>", "to": "arjun@example.com", "subject": "Annual performance review schedule",
+   "body": "Performance reviews for the second half will take place between 6 and 17 July. Please complete your self assessment on the portal by 30 June and book a one hour slot with your manager."},
+
+  {"id": "e15", "thread_id": "t10", "date": "2026-07-02T19:05:00", "from": "Ananya Krishnan <ananya@example.com>", "to": "arjun@example.com", "subject": "Bug report: search results duplicated after reindex",
+   "body": "After running a reindex on the staging environment, every query returns each document twice. It looks like the old index was not cleared before the rebuild. This blocks the QA sign off planned for Friday. Can you take a look?"},
+  {"id": "e16", "thread_id": "t10", "date": "2026-07-03T10:30:00", "from": "Arjun <arjun@example.com>", "to": "ananya@example.com", "subject": "Re: Bug report: search results duplicated after reindex",
+   "body": "Thanks Ananya, I can reproduce it. I will ship a fix that rebuilds the index from scratch and clears the old vectors. Expect a patch by Thursday."},
+
+  {"id": "e17", "thread_id": "t11", "date": "2026-08-05T12:00:00", "from": "Dr. Lakshmi Menon <lakshmi@iisc.example.edu>", "to": "arjun@example.com", "subject": "Guest lecture request",
+   "body": "We would be delighted to host you for a guest lecture to our graduate students on practical vector search systems. The preferred slot is Saturday 14 September, 10 am to 11:30 am, in the main auditorium. Please let us know if you are available."},
+
+  {"id": "e18", "thread_id": "t12", "date": "2026-09-08T15:25:00", "from": "Travel Desk <travel@example.com>", "to": "arjun@example.com", "subject": "Flight booking confirmation: Bengaluru to Delhi",
+   "body": "Your flight is confirmed for 12 October. Departure 07:15 from Bengaluru, arrival 10:05 in Delhi. Booking reference QX7H2P. Web check-in opens 48 hours before departure."},
+
+  {"id": "e19", "thread_id": "t13", "date": "2026-09-15T10:00:00", "from": "Priya Nair <priya@acmelogistics.com>", "to": "arjun@example.com", "subject": "Quarterly business review - Acme Logistics",
+   "body": "Hi Arjun, we would like to schedule the quarterly business review for the week of 5 October. Agenda: delivery performance, the new freight lanes, and next year capacity planning. Which days work for you?"},
+
+  {"id": "e20", "thread_id": "t14", "date": "2026-10-01T09:40:00", "from": "Neha Joshi <neha@example.com>", "to": "arjun@example.com", "subject": "Hiring: senior ML engineer shortlist",
+   "body": "I have shortlisted four candidates for the senior ML engineer role. Interviews are planned for 9 and 10 October. Could you join the technical panel for two of them? I need your confirmation by Monday."}
+]
