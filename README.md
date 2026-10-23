@@ -64,3 +64,4 @@ Replace `Mailbox` in `email_api.py` with Gmail API (`users.messages.list/get`, `
 ## Possible extensions
 
 Chunked embeddings for long threads, hybrid BM25 + vector search, IVF/HNSW index for large mailboxes, incremental indexing, reranking, and attachment text extraction.
+Tested the Gradio web interface in offline mode to verify email search and reply drafting functionality.
