@@ -96,3 +96,4 @@ class Mailbox:
         log.append({k: draft[k] for k in ("id", "to", "subject", "sent_at")})
         config.SENT_LOG_PATH.write_text(json.dumps(log, indent=2))
         return draft
+       
